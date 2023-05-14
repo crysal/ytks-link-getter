@@ -10,7 +10,9 @@ find the console tab where you can paste javascript
 
 paste javascript from (link to linkgetter.js)
 
-repeat for each page
+go to next page
+
+in console type "linkgetter()" and press enter
 
 copy the output from the console into a text editor
 
