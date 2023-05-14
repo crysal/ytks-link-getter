@@ -16,4 +16,6 @@ in console type "linkgetter()" and press enter
 
 copy the output from the console into a text editor
 
+trim text till you only have links
+
 enjoy
